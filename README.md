@@ -1,3 +1,3 @@
 # react-challenges
 
-1. timer
+1. Timer, branch: `task/timer`
